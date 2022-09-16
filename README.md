@@ -4,10 +4,11 @@
 
 - OpenCore: 0.8.3
 - macOS version: 11.7
+- macOS version: 12.6
 
 ## 硬件配置
 
-| 组件 | 型号                 |
+| 组件 | 型号x                 |
 | ---- | -------------------- |
 | 主板 | MAG-B460-TOMAHAWK    |
 | CPU  | Intel i5 10400       |
